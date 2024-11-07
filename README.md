@@ -32,6 +32,15 @@
 
 ----
 
+<h1 align="center"> ULTRA MD PLUGINS </h1>
+
+<p align="center">
+<a href="https://github.com/GlobalTechInfo/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/ULTRA MD-PLUGINS-black?style=for-the-badge&logo=Github"></a>
+<p/>
+
+  
+----
+
   <a href="https://github.com/GlobalTechInfo/ULTRA-MD/fork"><img title="GLOBAL-MD" src="https://img.shields.io/badge/FORK-ULTRA MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 ----
@@ -74,7 +83,7 @@ Get Creds.json (Server 1)
 ----
 Get Creds.json (Server 2)
     <br>
-<a href='https://replit.com/@tlptrends92/GLOBAL-SESSIONS#main.sh' target="_blank"><img alt='SERVER 2' src='https://img.shields.io/badge/Creds.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@qasimali1st/ULTRA-PAIRING#main.sh' target="_blank"><img alt='SERVER 2' src='https://img.shields.io/badge/Creds.json-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 set the Env Vars.
